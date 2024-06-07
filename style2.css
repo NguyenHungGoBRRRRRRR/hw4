@@ -1,0 +1,51 @@
+body{
+  font-family: "roboto";
+}
+
+.c1{
+  font-weight: normal
+}
+
+.c2{
+  font-weight: bold
+}
+
+.c3{
+  font-weight: 100
+}
+
+.c4{
+  font-weight: 200
+}
+
+.c5{
+  font-weight: 300
+}
+
+.c6{
+  font-weight: 400
+}
+
+.c7{
+  font-weight: 500
+}
+
+.c8{
+  font-weight: 600
+}
+
+.c9{
+  font-weight: 700
+}
+
+.c10{
+  font-weight: 800
+}
+
+.c11{
+  font-weight: 900
+}
+
+p:hover{
+  font-weight: 700
+}
